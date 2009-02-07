@@ -1,0 +1,15 @@
+# compile-applescript
+
+# 2009-02-07
+# OS X 10.5.6
+# AppleScript's version "2.0.1"
+# Finder.app version "10.5.8"
+
+.applescript file maked Script Editor.app 
+.applescript file is text file.
+this script is .applescript files to .scpt files
+
+choose folder, it's contains .aapplescript files.
+choose folder new folder for .scpt files.
+
+
