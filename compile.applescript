@@ -2,7 +2,7 @@
 # OS X 10.5.6
 # AppleScript's version "2.0.1"
 # Finder.app version "10.5.8"
-# last: 2009-02-11.
+# last: 2009-03-12.
 script mycomplie
 	
 	on default_dialog(t, str, b)
@@ -100,7 +100,6 @@ end script
 
 on run
 	tell mycomplie
-		#try
 		start_dialog()
 		set org_fold to get_dir("Plese select folder, contain .applescript files.")
 		set new_fold to get_dir("Plese selecht new folder for scpt folder")
@@ -110,16 +109,8 @@ on run
 			giving_dialog("error", "not exit file.applescript", {"Bye"})
 			return
 		end if
-		
 		# run .applescript Files to .scpt File
 		compile_files(org_files, new_files)
 		giving_dialog("Success", "See you", {"Bye"})
-		#on error errMessage number errNO
-		#	if errNO is -128 then
-		#		giving_dialog("End", "User's Cancel", {"Bye"})
-		#   else
-		#       return errMessage
-		#	end if
-		#end try
 	end tell
 end run
