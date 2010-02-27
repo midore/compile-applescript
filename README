@@ -1,5 +1,22 @@
 # compile-applescript
 
+# 2010-02-28 (JST)
+# I got e-mail from 'The Softpedia Team' <http://www.softpedia.com/>
+# 'The Softpedia Team' sayed
+# "... compile-applescript, one of your products, has been added to Softpedia's
+# database of software programs for Mac OS. ..."
+#
+# I was surprised. and, I noticed this program does't work in OS X 10.6.2.
+# so, I add file "OSX10-6-2-compile.applescript" which fix something error.
+#
+#
+# OSX10-6-2-compile.applescript
+# 2010-02-28
+# OS X 10.6.2
+# AppleScript's version  "2.1.1" 
+# Finder.app version "10.6.2"
+
+
 # 2009-02-07
 # OS X 10.5.6
 # AppleScript's version "2.0.1"
