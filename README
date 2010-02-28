@@ -6,18 +6,21 @@
 # "... compile-applescript, one of your products, has been added to Softpedia's
 # database of software programs for Mac OS. ..."
 #
-# I was surprised. and, I noticed this program does't work in OS X 10.6.2.
-# so, I add file "OSX10-6-2-compile.applescript" which fix something error.
+# I was surprised this e-mail. I don't know what is <www.softpedia.com>, I've never e-mail to <www.softpedia.com>.
+# What is it? Why?... and besides, I notice 'compile-applescript' does't work in OS X 10.6.2 .
 #
+# But now, 'compile-applescript' has been added to Softpedia's database, already.
+# So, I add file "OSX10-6-2-compile.applescript" which fix something error. For somebody else want to use it.
+# I can't write 'fluently English'. Thanks for read this.
 #
-# OSX10-6-2-compile.applescript
 # 2010-02-28
+# OSX10-6-2-compile.applescript
 # OS X 10.6.2
 # AppleScript's version  "2.1.1" 
 # Finder.app version "10.6.2"
 
-
 # 2009-02-07
+# compile-applescript
 # OS X 10.5.6
 # AppleScript's version "2.0.1"
 # Finder.app version "10.5.8"
@@ -28,5 +31,4 @@ this script is .applescript files to .scpt files
 
 choose folder, it's contains .aapplescript files.
 choose folder new folder for .scpt files.
-
 
